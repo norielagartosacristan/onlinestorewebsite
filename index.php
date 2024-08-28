@@ -1,4 +1,6 @@
-
+<?php 
+   require "header.php";
+?>
 
     <section class="banner">
         <h1>Welcome to FlexiMart</h1>
@@ -29,3 +31,7 @@
             </div>
         </div>
     </section>
+
+<?php
+require "footer.php";
+?>
