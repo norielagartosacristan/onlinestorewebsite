@@ -12,5 +12,6 @@
             <li><?php echo $product['ProductName']; ?> - $<?php echo $product['Price']; ?></li>
         <?php endforeach; ?>
     </ul>
+    <p>hello</p>
 </body>
 </html>
